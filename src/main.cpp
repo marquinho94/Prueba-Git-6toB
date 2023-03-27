@@ -1,9 +1,16 @@
 #include <Arduino.h>
+
 int variable_prueba
 
 
 int funcionParaQuePreguntes (void);
 void setup() {
+
+
+  /* esto es un comentario 
+  en varias lineas
+  para probar el codigo colaborativo
+  en git  */
   // put your setup code here, to run once:
 }
 
